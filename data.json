@@ -1,0 +1,1735 @@
+[
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "captcha",
+    "model": "captchastore"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "account",
+    "model": "emailaddress"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "account",
+    "model": "emailconfirmation"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "persona",
+    "model": "persona"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "oficina",
+    "model": "oficina"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "z3gwkm2smmt1ukmqv6ojn2c2bp4yu6mk",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSGAPIpL934DgfuQqqFJaVfGf7dNutDtzJzzFimvS01rpzmNKC7CiNMvKxme1HaBj9zuk4SpLfNY5J7Iw3Z5m5Be16P9O6i5121N1mExbAcKhtkDkB60Q2vAWp85gtoggmFSMfoYikMV3Dkwas1kUXy-A_84qQ:1usXFg:H3N2GntbuJZKDYVfWCwsIX48IURDJPue_zrhDYCa2WE",
+    "expire_date": "2025-09-14T01:53:04.759Z"
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 1,
+  "fields": {
+    "nombre": "Martín",
+    "apellido": "Gómez",
+    "edad": 44,
+    "oficina": 1
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 2,
+  "fields": {
+    "nombre": "Lucía",
+    "apellido": "Ramírez",
+    "edad": 27,
+    "oficina": 2
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 3,
+  "fields": {
+    "nombre": "Tomás",
+    "apellido": "Figueroa",
+    "edad": 38,
+    "oficina": 3
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 4,
+  "fields": {
+    "nombre": "Camila",
+    "apellido": "Vega",
+    "edad": 29,
+    "oficina": 4
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 5,
+  "fields": {
+    "nombre": "Agustín",
+    "apellido": "Silva",
+    "edad": 52,
+    "oficina": 5
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 6,
+  "fields": {
+    "nombre": "Julieta",
+    "apellido": "Alvarez",
+    "edad": 33,
+    "oficina": 6
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 7,
+  "fields": {
+    "nombre": "Matías",
+    "apellido": "Suárez",
+    "edad": 47,
+    "oficina": 7
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 8,
+  "fields": {
+    "nombre": "Valentina",
+    "apellido": "Ríos",
+    "edad": 24,
+    "oficina": 8
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 9,
+  "fields": {
+    "nombre": "Sebastián",
+    "apellido": "Muñoz",
+    "edad": 56,
+    "oficina": 9
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 10,
+  "fields": {
+    "nombre": "Paula",
+    "apellido": "García",
+    "edad": 31,
+    "oficina": 1
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 11,
+  "fields": {
+    "nombre": "Federico",
+    "apellido": "Paz",
+    "edad": 42,
+    "oficina": 2
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 12,
+  "fields": {
+    "nombre": "Renata",
+    "apellido": "Molina",
+    "edad": 22,
+    "oficina": 3
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 13,
+  "fields": {
+    "nombre": "Andrés",
+    "apellido": "Delgado",
+    "edad": 36,
+    "oficina": 4
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 14,
+  "fields": {
+    "nombre": "Florencia",
+    "apellido": "Rey",
+    "edad": 41,
+    "oficina": 5
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 15,
+  "fields": {
+    "nombre": "Joaquín",
+    "apellido": "Bustos",
+    "edad": 26,
+    "oficina": 6
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 16,
+  "fields": {
+    "nombre": "Mariana",
+    "apellido": "Castillo",
+    "edad": 54,
+    "oficina": 7
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 17,
+  "fields": {
+    "nombre": "Rodrigo",
+    "apellido": "Luna",
+    "edad": 39,
+    "oficina": 8
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 18,
+  "fields": {
+    "nombre": "Josefina",
+    "apellido": "Ojeda",
+    "edad": 60,
+    "oficina": 9
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 19,
+  "fields": {
+    "nombre": "Benjamín",
+    "apellido": "Salas",
+    "edad": 28,
+    "oficina": 1
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 20,
+  "fields": {
+    "nombre": "Sofía",
+    "apellido": "Campos",
+    "edad": 35,
+    "oficina": 2
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 21,
+  "fields": {
+    "nombre": "Leandro",
+    "apellido": "Paredes",
+    "edad": 49,
+    "oficina": 3
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 22,
+  "fields": {
+    "nombre": "Antonella",
+    "apellido": "Ibarra",
+    "edad": 30,
+    "oficina": 4
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 23,
+  "fields": {
+    "nombre": "Nicolás",
+    "apellido": "Acosta",
+    "edad": 58,
+    "oficina": 5
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 24,
+  "fields": {
+    "nombre": "Catalina",
+    "apellido": "Ramón",
+    "edad": 25,
+    "oficina": 6
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 25,
+  "fields": {
+    "nombre": "Diego",
+    "apellido": "Cruz",
+    "edad": 34,
+    "oficina": 7
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 26,
+  "fields": {
+    "nombre": "Bianca",
+    "apellido": "Herrera",
+    "edad": 63,
+    "oficina": 8
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 27,
+  "fields": {
+    "nombre": "Ezequiel",
+    "apellido": "Bravo",
+    "edad": 40,
+    "oficina": 9
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 28,
+  "fields": {
+    "nombre": "Victoria",
+    "apellido": "Roldán",
+    "edad": 29,
+    "oficina": 1
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 29,
+  "fields": {
+    "nombre": "Gonzalo",
+    "apellido": "Lagos",
+    "edad": 51,
+    "oficina": 2
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 30,
+  "fields": {
+    "nombre": "Abril",
+    "apellido": "Carrizo",
+    "edad": 22,
+    "oficina": 3
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 31,
+  "fields": {
+    "nombre": "Cristian",
+    "apellido": "Ferreyra",
+    "edad": 37,
+    "oficina": 4
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 32,
+  "fields": {
+    "nombre": "Emilia",
+    "apellido": "Quiroga",
+    "edad": 46,
+    "oficina": 5
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 33,
+  "fields": {
+    "nombre": "Ignacio",
+    "apellido": "Peralta",
+    "edad": 20,
+    "oficina": 6
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 34,
+  "fields": {
+    "nombre": "Milagros",
+    "apellido": "Cáceres",
+    "edad": 33,
+    "oficina": 7
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 35,
+  "fields": {
+    "nombre": "Franco",
+    "apellido": "Valdez",
+    "edad": 48,
+    "oficina": 8
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 36,
+  "fields": {
+    "nombre": "Celeste",
+    "apellido": "Navarro",
+    "edad": 59,
+    "oficina": 9
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 37,
+  "fields": {
+    "nombre": "Hernán",
+    "apellido": "Benitez",
+    "edad": 32,
+    "oficina": 1
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 38,
+  "fields": {
+    "nombre": "Carolina",
+    "apellido": "Domínguez",
+    "edad": 55,
+    "oficina": 2
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 39,
+  "fields": {
+    "nombre": "Facundo",
+    "apellido": "Morales",
+    "edad": 27,
+    "oficina": 3
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 40,
+  "fields": {
+    "nombre": "Juliana",
+    "apellido": "Castro",
+    "edad": 43,
+    "oficina": 4
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 41,
+  "fields": {
+    "nombre": "Lucas",
+    "apellido": "Ponce",
+    "edad": 31,
+    "oficina": 5
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 42,
+  "fields": {
+    "nombre": "Malena",
+    "apellido": "Serrano",
+    "edad": 61,
+    "oficina": 6
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 43,
+  "fields": {
+    "nombre": "Mauricio",
+    "apellido": "Torres",
+    "edad": 23,
+    "oficina": 7
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 44,
+  "fields": {
+    "nombre": "Abril",
+    "apellido": "Fuentes",
+    "edad": 45,
+    "oficina": 8
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 45,
+  "fields": {
+    "nombre": "Fernando",
+    "apellido": "Ayala",
+    "edad": 53,
+    "oficina": 9
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 46,
+  "fields": {
+    "nombre": "Ariana",
+    "apellido": "Juárez",
+    "edad": 24,
+    "oficina": 1
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 47,
+  "fields": {
+    "nombre": "Bruno",
+    "apellido": "Soria",
+    "edad": 40,
+    "oficina": 2
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 48,
+  "fields": {
+    "nombre": "Daniela",
+    "apellido": "Meza",
+    "edad": 62,
+    "oficina": 3
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 49,
+  "fields": {
+    "nombre": "Santiago",
+    "apellido": "Maidana",
+    "edad": 29,
+    "oficina": 4
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 50,
+  "fields": {
+    "nombre": "Julieta",
+    "apellido": "Reinoso",
+    "edad": 35,
+    "oficina": 5
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 51,
+  "fields": {
+    "nombre": "Lautaro",
+    "apellido": "Cardozo",
+    "edad": 57,
+    "oficina": 6
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 52,
+  "fields": {
+    "nombre": "Sol",
+    "apellido": "Guzmán",
+    "edad": 26,
+    "oficina": 7
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 53,
+  "fields": {
+    "nombre": "Ramiro",
+    "apellido": "Villarreal",
+    "edad": 42,
+    "oficina": 8
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 54,
+  "fields": {
+    "nombre": "Martina",
+    "apellido": "Godoy",
+    "edad": 64,
+    "oficina": 9
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 55,
+  "fields": {
+    "nombre": "Alejandro",
+    "apellido": "Cáceres",
+    "edad": 33,
+    "oficina": 1
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 56,
+  "fields": {
+    "nombre": "Micaela",
+    "apellido": "Santana",
+    "edad": 30,
+    "oficina": 2
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 57,
+  "fields": {
+    "nombre": "Nicolás",
+    "apellido": "Arce",
+    "edad": 51,
+    "oficina": 3
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 58,
+  "fields": {
+    "nombre": "Rocío",
+    "apellido": "Balmaceda",
+    "edad": 28,
+    "oficina": 4
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 59,
+  "fields": {
+    "nombre": "Pablo",
+    "apellido": "Coria",
+    "edad": 38,
+    "oficina": 5
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 60,
+  "fields": {
+    "nombre": "Fiorella",
+    "apellido": "Durán",
+    "edad": 60,
+    "oficina": 6
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 61,
+  "fields": {
+    "nombre": "Tomás",
+    "apellido": "Escobar",
+    "edad": 25,
+    "oficina": 7
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 62,
+  "fields": {
+    "nombre": "Luciana",
+    "apellido": "Ferreyra",
+    "edad": 41,
+    "oficina": 8
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 63,
+  "fields": {
+    "nombre": "Damián",
+    "apellido": "Flores",
+    "edad": 36,
+    "oficina": 9
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 64,
+  "fields": {
+    "nombre": "Carla",
+    "apellido": "Martínez",
+    "edad": 20,
+    "oficina": 1
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 65,
+  "fields": {
+    "nombre": "Emmanuel",
+    "apellido": "Gutiérrez",
+    "edad": 49,
+    "oficina": 2
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 66,
+  "fields": {
+    "nombre": "Melina",
+    "apellido": "Costa",
+    "edad": 22,
+    "oficina": 3
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 67,
+  "fields": {
+    "nombre": "Hugo",
+    "apellido": "Peña",
+    "edad": 35,
+    "oficina": 4
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 68,
+  "fields": {
+    "nombre": "Cintia",
+    "apellido": "Vázquez",
+    "edad": 46,
+    "oficina": 5
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 69,
+  "fields": {
+    "nombre": "Rodrigo",
+    "apellido": "Acevedo",
+    "edad": 21,
+    "oficina": 6
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 70,
+  "fields": {
+    "nombre": "Brenda",
+    "apellido": "Lemus",
+    "edad": 39,
+    "oficina": 7
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 71,
+  "fields": {
+    "nombre": "Elías",
+    "apellido": "Correa",
+    "edad": 55,
+    "oficina": 8
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 72,
+  "fields": {
+    "nombre": "Gabriela",
+    "apellido": "López",
+    "edad": 26,
+    "oficina": 9
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 73,
+  "fields": {
+    "nombre": "Agustín",
+    "apellido": "Bravo",
+    "edad": 44,
+    "oficina": 1
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 74,
+  "fields": {
+    "nombre": "Candela",
+    "apellido": "Méndez",
+    "edad": 30,
+    "oficina": 2
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 75,
+  "fields": {
+    "nombre": "Mateo",
+    "apellido": "Perdomo",
+    "edad": 53,
+    "oficina": 3
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 76,
+  "fields": {
+    "nombre": "Valeria",
+    "apellido": "Aragón",
+    "edad": 24,
+    "oficina": 4
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 77,
+  "fields": {
+    "nombre": "Federico",
+    "apellido": "Torales",
+    "edad": 41,
+    "oficina": 5
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 78,
+  "fields": {
+    "nombre": "Magalí",
+    "apellido": "Ortiz",
+    "edad": 34,
+    "oficina": 6
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 79,
+  "fields": {
+    "nombre": "Iván",
+    "apellido": "Rivera",
+    "edad": 59,
+    "oficina": 7
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 80,
+  "fields": {
+    "nombre": "Zaira",
+    "apellido": "Martín",
+    "edad": 28,
+    "oficina": 8
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 81,
+  "fields": {
+    "nombre": "Leandro",
+    "apellido": "Tello",
+    "edad": 37,
+    "oficina": 9
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 82,
+  "fields": {
+    "nombre": "Ailén",
+    "apellido": "Ramírez",
+    "edad": 25,
+    "oficina": 1
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 83,
+  "fields": {
+    "nombre": "Cristian",
+    "apellido": "Pardo",
+    "edad": 48,
+    "oficina": 2
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 84,
+  "fields": {
+    "nombre": "Sabrina",
+    "apellido": "Rey",
+    "edad": 20,
+    "oficina": 3
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 85,
+  "fields": {
+    "nombre": "Esteban",
+    "apellido": "Giménez",
+    "edad": 40,
+    "oficina": 4
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 86,
+  "fields": {
+    "nombre": "Priscila",
+    "apellido": "Villalba",
+    "edad": 23,
+    "oficina": 5
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 87,
+  "fields": {
+    "nombre": "Simón",
+    "apellido": "Aguilar",
+    "edad": 54,
+    "oficina": 6
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 88,
+  "fields": {
+    "nombre": "Florencia",
+    "apellido": "Pizarro",
+    "edad": 31,
+    "oficina": 7
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 89,
+  "fields": {
+    "nombre": "Marcos",
+    "apellido": "Sandoval",
+    "edad": 62,
+    "oficina": 8
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 90,
+  "fields": {
+    "nombre": "Ariadna",
+    "apellido": "Costa",
+    "edad": 35,
+    "oficina": 9
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 91,
+  "fields": {
+    "nombre": "Felipe",
+    "apellido": "Alonso",
+    "edad": 45,
+    "oficina": 1
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 92,
+  "fields": {
+    "nombre": "Rocío",
+    "apellido": "Nuñez",
+    "edad": 29,
+    "oficina": 2
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 93,
+  "fields": {
+    "nombre": "Dante",
+    "apellido": "Cárdenas",
+    "edad": 58,
+    "oficina": 3
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 94,
+  "fields": {
+    "nombre": "Josefina",
+    "apellido": "Sánchez",
+    "edad": 22,
+    "oficina": 4
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 95,
+  "fields": {
+    "nombre": "Ángel",
+    "apellido": "Delgado",
+    "edad": 36,
+    "oficina": 5
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 96,
+  "fields": {
+    "nombre": "Camila",
+    "apellido": "Benitez",
+    "edad": 43,
+    "oficina": 6
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 97,
+  "fields": {
+    "nombre": "Julián",
+    "apellido": "Figueroa",
+    "edad": 27,
+    "oficina": 7
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 98,
+  "fields": {
+    "nombre": "Malena",
+    "apellido": "Coronel",
+    "edad": 50,
+    "oficina": 8
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 99,
+  "fields": {
+    "nombre": "Cristian",
+    "apellido": "Paz",
+    "edad": 30,
+    "oficina": 9
+  }
+},
+{
+  "model": "persona.persona",
+  "pk": 100,
+  "fields": {
+    "nombre": "Fátima",
+    "apellido": "Romero",
+    "edad": 41,
+    "oficina": 1
+  }
+},
+{
+  "model": "oficina.oficina",
+  "pk": 1,
+  "fields": {
+    "nombre": "Recursos Humanos",
+    "nombre_corto": "RRHH"
+  }
+},
+{
+  "model": "oficina.oficina",
+  "pk": 2,
+  "fields": {
+    "nombre": "Administración",
+    "nombre_corto": "ADM"
+  }
+},
+{
+  "model": "oficina.oficina",
+  "pk": 3,
+  "fields": {
+    "nombre": "Tecnología",
+    "nombre_corto": "TLC"
+  }
+},
+{
+  "model": "oficina.oficina",
+  "pk": 4,
+  "fields": {
+    "nombre": "Ventas",
+    "nombre_corto": "VTA"
+  }
+},
+{
+  "model": "oficina.oficina",
+  "pk": 5,
+  "fields": {
+    "nombre": "Marketing",
+    "nombre_corto": "MKT"
+  }
+},
+{
+  "model": "oficina.oficina",
+  "pk": 6,
+  "fields": {
+    "nombre": "Finanzas",
+    "nombre_corto": "FIN"
+  }
+},
+{
+  "model": "oficina.oficina",
+  "pk": 7,
+  "fields": {
+    "nombre": "Atención al Cliente",
+    "nombre_corto": "ATC"
+  }
+},
+{
+  "model": "oficina.oficina",
+  "pk": 8,
+  "fields": {
+    "nombre": "Dirección General",
+    "nombre_corto": "DIR"
+  }
+},
+{
+  "model": "oficina.oficina",
+  "pk": 9,
+  "fields": {
+    "nombre": "RRHH",
+    "nombre_corto": "RRHH_DUPLICADO"
+  }
+},
+{
+  "model": "sites.site",
+  "fields": {
+    "domain": "example.com",
+    "name": "example.com"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": [
+      "admin",
+      "logentry"
+    ],
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": [
+      "admin",
+      "logentry"
+    ],
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": [
+      "admin",
+      "logentry"
+    ],
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": [
+      "admin",
+      "logentry"
+    ],
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add permission",
+    "content_type": [
+      "auth",
+      "permission"
+    ],
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change permission",
+    "content_type": [
+      "auth",
+      "permission"
+    ],
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": [
+      "auth",
+      "permission"
+    ],
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view permission",
+    "content_type": [
+      "auth",
+      "permission"
+    ],
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add group",
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change group",
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete group",
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view group",
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add user",
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change user",
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete user",
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view user",
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add content type",
+    "content_type": [
+      "contenttypes",
+      "contenttype"
+    ],
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change content type",
+    "content_type": [
+      "contenttypes",
+      "contenttype"
+    ],
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": [
+      "contenttypes",
+      "contenttype"
+    ],
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view content type",
+    "content_type": [
+      "contenttypes",
+      "contenttype"
+    ],
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add session",
+    "content_type": [
+      "sessions",
+      "session"
+    ],
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change session",
+    "content_type": [
+      "sessions",
+      "session"
+    ],
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete session",
+    "content_type": [
+      "sessions",
+      "session"
+    ],
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view session",
+    "content_type": [
+      "sessions",
+      "session"
+    ],
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add captcha store",
+    "content_type": [
+      "captcha",
+      "captchastore"
+    ],
+    "codename": "add_captchastore"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change captcha store",
+    "content_type": [
+      "captcha",
+      "captchastore"
+    ],
+    "codename": "change_captchastore"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete captcha store",
+    "content_type": [
+      "captcha",
+      "captchastore"
+    ],
+    "codename": "delete_captchastore"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view captcha store",
+    "content_type": [
+      "captcha",
+      "captchastore"
+    ],
+    "codename": "view_captchastore"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add site",
+    "content_type": [
+      "sites",
+      "site"
+    ],
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change site",
+    "content_type": [
+      "sites",
+      "site"
+    ],
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete site",
+    "content_type": [
+      "sites",
+      "site"
+    ],
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view site",
+    "content_type": [
+      "sites",
+      "site"
+    ],
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add email address",
+    "content_type": [
+      "account",
+      "emailaddress"
+    ],
+    "codename": "add_emailaddress"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change email address",
+    "content_type": [
+      "account",
+      "emailaddress"
+    ],
+    "codename": "change_emailaddress"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete email address",
+    "content_type": [
+      "account",
+      "emailaddress"
+    ],
+    "codename": "delete_emailaddress"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view email address",
+    "content_type": [
+      "account",
+      "emailaddress"
+    ],
+    "codename": "view_emailaddress"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add email confirmation",
+    "content_type": [
+      "account",
+      "emailconfirmation"
+    ],
+    "codename": "add_emailconfirmation"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change email confirmation",
+    "content_type": [
+      "account",
+      "emailconfirmation"
+    ],
+    "codename": "change_emailconfirmation"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete email confirmation",
+    "content_type": [
+      "account",
+      "emailconfirmation"
+    ],
+    "codename": "delete_emailconfirmation"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view email confirmation",
+    "content_type": [
+      "account",
+      "emailconfirmation"
+    ],
+    "codename": "view_emailconfirmation"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add Persona",
+    "content_type": [
+      "persona",
+      "persona"
+    ],
+    "codename": "add_persona"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change Persona",
+    "content_type": [
+      "persona",
+      "persona"
+    ],
+    "codename": "change_persona"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete Persona",
+    "content_type": [
+      "persona",
+      "persona"
+    ],
+    "codename": "delete_persona"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view Persona",
+    "content_type": [
+      "persona",
+      "persona"
+    ],
+    "codename": "view_persona"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add Oficina",
+    "content_type": [
+      "oficina",
+      "oficina"
+    ],
+    "codename": "add_oficina"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change Oficina",
+    "content_type": [
+      "oficina",
+      "oficina"
+    ],
+    "codename": "change_oficina"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete Oficina",
+    "content_type": [
+      "oficina",
+      "oficina"
+    ],
+    "codename": "delete_oficina"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view Oficina",
+    "content_type": [
+      "oficina",
+      "oficina"
+    ],
+    "codename": "view_oficina"
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$600000$NcLonWeVLhZAoFr5tws8Ro$EqB5cs1kjYH+NvJLHmJBMQo/oOXXKwT2F/yoWfaGxeI=",
+    "last_login": "2025-08-28T22:25:35.127Z",
+    "is_superuser": true,
+    "username": "lucasguzman",
+    "first_name": "",
+    "last_name": "",
+    "email": "lucasguzman834@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-08-28T22:23:40.848Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$600000$3BqhbBzS2uxvp8KVq624Fk$hPBNbH+h4Dd7HOSc2lmmx1Ee8N4chAGvOUJ1Pbp9Vwc=",
+    "last_login": "2025-08-31T01:53:04.758Z",
+    "is_superuser": true,
+    "username": "lucas999",
+    "first_name": "",
+    "last_name": "",
+    "email": "lucasguzman834@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-08-31T01:51:17.781Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
