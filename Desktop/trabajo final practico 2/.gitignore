@@ -62,4 +62,4 @@ pip-delete-this-directory.txt
 
 # Unit test / coverage reports
 .tox/
-.pytest_cache/
+.pytest_cache/.DS_Store
