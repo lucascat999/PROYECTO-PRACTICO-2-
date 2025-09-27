@@ -12,3 +12,5 @@ pillow==11.3.0
 soupsieve==2.8
 sqlparse==0.5.3
 typing_extensions==4.15.0
+psycopg2-binary==2.9.9
+django-environ==0.11.2
